@@ -1,5 +1,5 @@
 ---
 noun:
-  - "(Land) Animal
+  - "(Land) Animal"
 ---
 soweli li suli
