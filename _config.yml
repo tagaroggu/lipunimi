@@ -1,0 +1,6 @@
+title: lipu nimi
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
