@@ -1,3 +1,6 @@
+collections:
+  nimi:
+    output: false
 title: lipu nimi
 defaults:
   - scope:
