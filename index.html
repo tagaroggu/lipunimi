@@ -7,7 +7,7 @@ title: lipu tomo pi lipu nimi
 			<div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4">
 				<div class="mdc-card mdc-card--outlined" style="padding: 16px">
 					<h1 class="mdc-typography--headline4">{{ nimi.title }}</h1>
-					{% if nimi.noun %}<span><strong>Noun:</strong>{% for noun in nimi %} {{ noun }}.{% endfor %}</span>{% endif %}
+					{% if nimi.noun %}<span><strong>Noun:</strong> {{ nimi.noun }}.</span>{% endif %}
 				</div>
 			</div>
 		{% endfor %}
